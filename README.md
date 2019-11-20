@@ -1,5 +1,5 @@
 # SP Restoran Kentang (Input Awal - Hapus Awal)
-This is my short semester lesson about linked list in structure data. 
+This is my short semester's lesson about linked list in structure data. 
 
 this is potato restaurant application
 
