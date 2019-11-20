@@ -1,4 +1,4 @@
-# SP Restoran Kentang (Input Awal - Hapus Awal)
+# (SP) Restoran Kentang (Input Awal - Hapus Awal)
 This is my short semester's lesson about linked list in structure data. 
 
 this is potato restaurant application
